@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm <b>Habid Hossen</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm <span style="color:mediumpurple"><b>Habid Hossen</b></span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+and+Engineering+Student;Web+Developer;Android%20Developer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
@@ -94,13 +94,12 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/habidhossen"><img align="center" src="https://github-readme-stats.vercel.app/api?username=habidhossen&show_icons=true&locale=en&theme=noctis_minimus" alt="habidhossen" height="192px"/></a>
+    <a href="https://github.com/habidhossen"><img align="center" src="https://github-readme-stats.vercel.app/api?username=habidhossen&show_icons=true&locale=en&theme=aura_dark" alt="habidhossen" height="192px"/></a>
 	</p>
 	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=habidhossen&show_icons=true&locale=en&layout=compact&theme=noctis_minimus" alt="habidhossen" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=habidhossen&show_icons=true&locale=en&layout=compact&theme=aura_dark" alt="habidhossen" height="192px"/>
 	</p>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
   </p>
 </details>
 
@@ -121,6 +120,6 @@
 <a href="https://github.com/Habidhossen"><img alt="Github" src="https://img.shields.io/badge/Github-6cc644.svg?logo=Github&logoColor=white"></a>
 <a href="https://facebook.com/habidhossen" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-3b5998.svg?logo=Facebook&logoColor=white"></a>
 <a href="https://linkedin.com/in/habid-hossen-738114213" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0e76a8.svg?logo=Linkedin&logoColor=white"></a>
-<a href="habidhossen2@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-ea4335.svg?logo=Gmail&logoColor=white"></a>
+<a href="mailto:habidhossen2@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-ea4335.svg?logo=Gmail&logoColor=white"></a>
 
 <!--img align="right" alt="Coding" width="450" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" data-canonical-src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" style="max-width:100%;"/-->
