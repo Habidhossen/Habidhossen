@@ -55,138 +55,30 @@
   <img src="https://img.shields.io/badge/Gmail-ea4335?&style=for-the-badge&logo=gmail&logoColor=white" alt="Habidhossen"  />
   </a>
 </p>
-
-## 📝 My Skills
-
-### ⚫ Programming Languages
-
-<p align="left"> 
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/C%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/C++%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/Java%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/JavaScript%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/PHP%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/Python%20-%231c3552.svg"></a>
-&emsp;
-</p>
-
-### ⚫ Frontend Development
-
-<p align="left"> 
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/HTML%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/CSS%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/SASS%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/Styled Component%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/Bootstrap%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/Tailwind CSS%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/Material UI%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/ES6%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/Rest API%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/SPA%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/React.JS%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/Redux%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/Stripe%20-%231c3552.svg"></a>
-&emsp;
-</p>
-
-### ⚫ Backend Development
-
-<p align="left"> 
-&emsp; 
-<a href=""><img alt="" src="https://img.shields.io/badge/Node.JS%20-%231c3552.svg"></a>
-&emsp;  
-<a href=""><img alt="" src="https://img.shields.io/badge/Express.JS%20-%231c3552.svg"></a>
-&emsp;  
-<a href=""><img alt="" src="https://img.shields.io/badge/Mongoose%20-%231c3552.svg"></a>
-&emsp; 
-<a href=""><img alt="" src="https://img.shields.io/badge/Authentication%20-%231c3552.svg"></a>
-&emsp;  
-<a href=""><img alt="" src="https://img.shields.io/badge/JWT%20-%231c3552.svg"></a>
-&emsp;  
-<a href=""><img alt="" src="https://img.shields.io/badge/Passport.JS%20-%231c3552.svg"></a>
-&emsp;  
-</p>
-
-### ⚫ Databases & Cloud Hosting
-
-<p align="left">
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/MongoDB%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/MySQL%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/Firebase%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/Netlify%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/Heroku%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/Render%20-%231c3552.svg"></a>
-</p>
-
-### ⚫ Software & Tools
-
-<p>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/Git%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/GitHub%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/Visual Studio Code%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/Android Studio%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/Adobe%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/Figma%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/NPM%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/Yarn%20-%231c3552.svg"></a>
-&emsp;
-<a href=""><img alt="" src="https://img.shields.io/badge/Postman%20-%231c3552.svg"></a>
-&emsp;
-</p>
-
 <hr/>
 
-### 👉 Streak Stats
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Habidhossen&theme=buefy-dark" alt="Habid Hossen" /></p>
-
-### 👉 Profile Stats
+#### 👉 Profile Stats
 
 <p align="center">
-    <a href="https://github.com/habidhossen"><img align="center" src="https://github-readme-stats.vercel.app/api?username=habidhossen&show_icons=true&locale=en&theme=aura_dark" alt="habidhossen" height="192px"/></a>
+  <a href="https://github.com/Habidhossen">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Habidhossen&theme=radical&border=7F3FBF&background=0D1117" alt="Habid Hossen's GitHub streak"/>
+  </a>
 </p>
-
-### 👉 Most Used Languages
-
-<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=habidhossen&show_icons=true&locale=en&layout=compact&theme=aura_dark" alt="habidhossen" height="192px"/>
-	</p>
-
-### 👉 Recent Github Activity
 
 <p align="center">
-    <a href="https://github.com/Habidhossen"><img alt="Habid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=habidhossen&custom_title=Habid%20Hossen's%20Contribution%20Graph&theme=react-dark" /></a>
+  <a href="https://github.com/Habidhossen">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Habidhossen&theme=radical" alt="Habid Hossen's GitHub Contribution"/>
+  </a>
 </p>
+
+#### 👉 Stats & Most Used Languages
+
+<a> 
+    <a href="https://github.com/Habidhossen"><img alt="Habid Hossen's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Habidhossen&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Habidhossen"><img alt="Habid Hossen's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Habidhossen&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+#### 👉 Activity Graph
+
+![Habid Hossen's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Habidhossen&custom_title=Habid%20Hossen's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
