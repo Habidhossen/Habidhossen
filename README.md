@@ -1,19 +1,18 @@
-![github-banner](https://github.com/Habidhossen/Habidhossen/assets/85643435/78e862ab-af22-42f4-ac3d-8972571aec2b)
-
-<!-- Intro  -->
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+![Habid-GIthub-Banner](https://github.com/Habidhossen/Habidhossen/assets/85643435/d6c5a2a2-0289-4f0b-9948-cb54b26cd016)
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%" style="display:inline;">
 
 <!-- Intro  -->
 <h2 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://habidhossen.netlify.app/">Habid Hossen</a></b>
+                <b><a target="_blank" href="https://habidhossen.netlify.app/" style="color: #ffd500;">Habid Hossen</a></b>
         </samp>
 </h2>
 
 <p align="center">
-<samp>
+<samp style="color: #ff7096;">
 「 I am a full stack web application developer from <b>Bangladesh</b> 」
+<br>
 <br>
 <a href="https://www.google.com/search?q=Habid+Hossen">「 Google Me 」</a>
 <br>
@@ -57,7 +56,20 @@
   <img src="https://img.shields.io/badge/Gmail-ea4335?&style=for-the-badge&logo=gmail&logoColor=white" alt="Habidhossen"  />
   </a>
 </p>
-<hr/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+#### 👉 Languages and Tools
+
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,firebase,tailwind,materialui,bootstrap,nodejs,express,py,graphql,prisma,mongodb,mysql,postgresql,aws,vercel,netlify,vite,npm,yarn,figma,git,github,docker,postman" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 #### 👉 Profile Stats
 
